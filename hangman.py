@@ -1,6 +1,6 @@
 import random
 from words import word_list
-
+# sample comment 10-31-2020
 
 def get_word():
     word = random.choice(word_list)
